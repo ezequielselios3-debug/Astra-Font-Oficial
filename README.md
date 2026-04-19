@@ -36,3 +36,11 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL
 
+Version 004.003:
+
+- Mejor optimización de nodos en algunas letras
+- Cambio de diseño y optimizacion del ampersand
+- Se rediseño la escala de la fuente para prevenir que las letras esten flotando y que todo entre en su lugar (Em-Square actual de 1024)
+- Modificaciones para mayor legibilidad
+- Cambio del diseño de las cedillas (entre otros), en letras como "Ç, Ş, Ȩ , etc..."
+
