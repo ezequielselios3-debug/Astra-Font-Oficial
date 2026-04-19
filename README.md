@@ -1,7 +1,7 @@
 # Astra-Font-Oficial
 Descripcion: Astra-Style-Rg es una tipografia experimental con estetica futurista y moderna, diseñada especificamente para el universo de Astra Corp. Diseñada con imperfecciones que buscan generar una pequeña desconformidad al espectador sin saturarlo.
 
-Version: 004.002
+Version: 004.003
 
 Estilo: Regular Stencil
 
